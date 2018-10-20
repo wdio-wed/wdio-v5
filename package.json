@@ -1,0 +1,22 @@
+{
+  "name": "wdio-v5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wdio-cli": "^5.0.0-beta.3"
+  },
+  "devDependencies": {
+    "wdio-local-runner": "^5.0.0-alpha.7",
+    "wdio-mocha-framework": "^0.6.3",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "wdio-spec-reporter": "^0.1.5",
+    "wdio-sync": "^0.7.2"
+  }
+}
